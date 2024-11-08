@@ -8,13 +8,13 @@
     {
         "title": "Introduction To Algorithms",
         "author": "Thomas H Cormen",
-        "cover_image_url": "https://raw.githubusercontent.com/YourUsername/book-downloads/main/images/RWD.jpg",
-        "download_link": "https://raw.githubusercontent.com/YourUsername/book-downloads/main/files/responsive-web-design.pdf"
+        "cover_image_url": "https://github.com/Umii010/book-downloads/blob/main/images/algorithms.jpg",
+        "download_link": "https://github.com/Umii010/book-downloads/blob/main/files/Introduction.to.Algorithms.4th.Leiserson.Stein.Rivest.Cormen.MIT.Press.9780262046305.EBooksWorld.ir.pdf"
     },
     {
         "title": "The Art of Computer Programming",
         "author": "Donald E. Knuth",
-        "cover_image_url": "https://raw.githubusercontent.com/YourUsername/book-downloads/main/images/js.jpg",
-        "download_link": "https://raw.githubusercontent.com/YourUsername/book-downloads/main/files/javascript-guide.pdf"
+        "cover_image_url": "https://github.com/Umii010/book-downloads/blob/main/images/art.jpg",
+        "download_link": "https://github.com/Umii010/book-downloads/blob/main/files/The_Art_of_Computer_Programming%20-%20Vol%201.pdf"
     }
 ]
