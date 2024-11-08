@@ -2,18 +2,18 @@
     {
         "title": "Data Structures",
         "author": "Mark Allen Weiss",
-        "cover_image_url": "https://raw.githubusercontent.com/YourUsername/book-downloads/main/images/remy-sharp.jpg",
-        "download_link": "https://raw.githubusercontent.com/YourUsername/book-downloads/main/files/introducing-html5.pdf"
+        "cover_image_url": "https://github.com/Umii010/book-downloads/blob/main/images/dsa.jpg",
+        "download_link": "https://github.com/Umii010/book-downloads/blob/main/files/DataStructures.pdf"
     },
     {
-        "title": "Responsive Web Design",
-        "author": "Ben Frain",
+        "title": "Introduction To Algorithms",
+        "author": "Thomas H Cormen",
         "cover_image_url": "https://raw.githubusercontent.com/YourUsername/book-downloads/main/images/RWD.jpg",
         "download_link": "https://raw.githubusercontent.com/YourUsername/book-downloads/main/files/responsive-web-design.pdf"
     },
     {
-        "title": "JavaScript: The Definitive Guide",
-        "author": "David Flanagan",
+        "title": "The Art of Computer Programming",
+        "author": "Donald E. Knuth",
         "cover_image_url": "https://raw.githubusercontent.com/YourUsername/book-downloads/main/images/js.jpg",
         "download_link": "https://raw.githubusercontent.com/YourUsername/book-downloads/main/files/javascript-guide.pdf"
     }
