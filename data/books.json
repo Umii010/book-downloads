@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Data Structures",
+        "author": "Mark Allen Weiss",
+        "cover_image_url": "https://raw.githubusercontent.com/YourUsername/book-downloads/main/images/remy-sharp.jpg",
+        "download_link": "https://raw.githubusercontent.com/YourUsername/book-downloads/main/files/introducing-html5.pdf"
+    },
+    {
+        "title": "Responsive Web Design",
+        "author": "Ben Frain",
+        "cover_image_url": "https://raw.githubusercontent.com/YourUsername/book-downloads/main/images/RWD.jpg",
+        "download_link": "https://raw.githubusercontent.com/YourUsername/book-downloads/main/files/responsive-web-design.pdf"
+    },
+    {
+        "title": "JavaScript: The Definitive Guide",
+        "author": "David Flanagan",
+        "cover_image_url": "https://raw.githubusercontent.com/YourUsername/book-downloads/main/images/js.jpg",
+        "download_link": "https://raw.githubusercontent.com/YourUsername/book-downloads/main/files/javascript-guide.pdf"
+    }
+]
