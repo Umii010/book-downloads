@@ -1,23 +1,26 @@
 [
-    {
-        "title": "Data Structures",
-        "author": "Mark Allen Weiss",
-        "cover_image_url": "https://github.com/Umii010/book-downloads/blob/main/images/dsa.jpg",
-        "download_link": "https://github.com/Umii010/book-downloads/blob/main/files/DataStructures.pdf",
-        "price": 0  
-    },
-    {
-        "title": "Introduction To Algorithms",
-        "author": "Thomas H Cormen",
-        "cover_image_url": "https://github.com/Umii010/book-downloads/blob/main/images/algorithms.jpg",
-        "download_link": "https://github.com/Umii010/book-downloads/blob/main/files/Introduction.to.Algorithms.4th.Leiserson.Stein.Rivest.Cormen.MIT.Press.9780262046305.EBooksWorld.ir.pdf",
-        "price": 29.99  
-    },
-    {
-        "title": "The Art of Computer Programming",
-        "author": "Donald E. Knuth",
-        "cover_image_url": "https://github.com/Umii010/book-downloads/blob/main/images/art.jpg",
-        "download_link": "https://github.com/Umii010/book-downloads/blob/main/files/The_Art_of_Computer_Programming%20-%20Vol%201.pdf",
-        "price": 0  
-    }
+  {
+    "title": "Data Structures",
+    "author": "Mark Allen Weiss",
+    "cover_image_url": "https://github.com/Umii010/book-downloads/blob/main/images/dsa.jpg",
+    "download_link": "https://github.com/Umii010/book-downloads/blob/main/files/DataStructures.pdf",
+    "price": 0,
+    "is_paid": false
+  },
+  {
+    "title": "Introduction To Algorithms",
+    "author": "Thomas H Cormen",
+    "cover_image_url": "https://github.com/Umii010/book-downloads/blob/main/images/algorithms.jpg",
+    "download_link": "https://github.com/Umii010/book-downloads/blob/main/files/Introduction.to.Algorithms.4th.Leiserson.Stein.Rivest.Cormen.MIT.Press.9780262046305.EBooksWorld.ir.pdf",
+    "price": 29.99,
+    "is_paid": true
+  },
+  {
+    "title": "The Art of Computer Programming",
+    "author": "Donald E. Knuth",
+    "cover_image_url": "https://github.com/Umii010/book-downloads/blob/main/images/art.jpg",
+    "download_link": "https://github.com/Umii010/book-downloads/blob/main/files/The_Art_of_Computer_Programming%20-%20Vol%201.pdf",
+    "price": 0,
+    "is_paid": false
+  }
 ]
